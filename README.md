@@ -25,4 +25,4 @@ WordScramble- A game that shows the player a word and then asks the player to co
 
 iExpense- An expense tracker that allows for the tracking business and personal expenses. All data entered is archived using the codable protocol and is persisted using User Defaults. 
 
-
+HotProspects- A conferencing app that allows users to track who they have met at a conference by scanning their unique QR Codes. The QR Codes were generated using the Core Image framework and scanned using Apple's AVFoundation framework. 
