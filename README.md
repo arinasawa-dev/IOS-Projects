@@ -9,7 +9,7 @@ BucketList- An app that allows users to build a map of places they have visited 
 
 Drawing- An app that provides a demo of what the drawing functions in swiftUI are capable of(animating changes, drawing custom paths and shapes, etc.)
 
-GuessTheFlag- A quiz game app that presents the users with the name of a country and images of 3 different flags. Users have to select the right one to increase their score. 
+GuessTheFlag- A quiz game app that presents the users with the name of a country and images of 3 different flags. Users have to select the flag matching the country in order to increase their score. The various flag-images are obtained by using the Geognos World Countries API.
 
 Instafilter- An app that allows the user to apply a variety of different filters to photos that they select from their photo library. Filters can also be chained on top of each other to create unique effects. The Core Image framework is used to provide the functionality of modifying images with filters. Finally, the result can be directly saved to the user photo library. 
 
