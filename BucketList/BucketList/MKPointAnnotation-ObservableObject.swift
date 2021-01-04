@@ -1,10 +1,3 @@
-//
-//  MKPointAnnotation-ObservableObject.swift
-//  Project14
-//
-//  Created by Paul Hudson on 17/02/2020.
-//  Copyright © 2020 Paul Hudson. All rights reserved.
-//
 
 import MapKit
 

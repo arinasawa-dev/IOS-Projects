@@ -8,6 +8,7 @@ struct Location:Codable{
     var type:String
 }
 
+
 struct ContentView: View {
     @State private var centerCoordinate = CLLocationCoordinate2D()
     @State private var locations = [Location]()
