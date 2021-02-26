@@ -28,3 +28,5 @@ iExpense- An expense tracker that allows for the tracking business and personal 
 HotProspects- A conferencing app that allows users to track who they have met at a conference by scanning their unique QR Codes. The QR Codes were generated using the Core Image framework and scanned using Apple's AVFoundation framework. 
 
 Flashzilla- A flashcards app that allows users to save Flashcard sets to their device and also use those sets to practice. The Core Haptics Framework is used to add Haptic Feedback to the app to enhance the user experience.
+
+Mooskine - A note-taking app that allows users to take notes and store them in notebooks. Built as part of the Udacity Core Data Course. The Core Data framework is used to persist user data to device and fetch the persisted data through predicates and sort descriptors. A background context is also utilized in this app to prevent slow work from blocking the main thread.
