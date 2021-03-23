@@ -1,6 +1,8 @@
 # IOS-Projects
 Some cool IOS projects that I have worked on...
 
+Advice - An app that uses a JSON API to fetch a new advice every day to display to the user. The Combine framework is used to facilitate the fetching of the advice and WidgetKit is used to allow users to add Widgets to their home-screen and get the advice at a glance. //TODO: Add MVVM Architecture to the app. 
+
 BetterRest- An app that uses a self-trained CORE-ML model to recommend what time a coffee drinker should sleep to get a certain number of hours of sleep based on their daily coffee intake. 
 
 Bookworm- An app that allows users to track the books they have read and their thoughts about them. The Core Data framework is used to persist the data that the user enters. 
