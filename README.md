@@ -1,7 +1,7 @@
 # IOS-Projects
 Some cool IOS projects that I have worked on...
 
-FirebaseRemindersApp - A reminder App that used Firebase to store a user's reminders in the cloud(Firestore). The firebase authentication system is used to allow uers to create/sign into accounts as well as reset their passwords. The MVVM architecture and the Combine framework are used to make sure that the local data and the database data are both in sync. Note: The pods/dependencies are removed from the uploaded project as including them would exceed the amount of files that Github allowes to be uploaded for a project at once. 
+FirebaseRemindersApp - A reminder app that used Firebase to store a user's reminders in the cloud(Firestore). The firebase authentication system is used to allow uers to create/sign into accounts as well as reset their passwords. The MVVM architecture and the Combine framework are used to make sure that the local data and the database data are both in sync. Note: The pods/dependencies are removed from the uploaded project as including them would exceed the amount of files that Github allows to be uploaded for a project at once. 
 
 Advice - An app that uses a JSON API to fetch a new advice every day to display to the user. The Combine framework is used to facilitate the fetching of the advice and WidgetKit is used to allow users to add Widgets to their home-screen and get the advice at a glance. //TODO: Add MVVM Architecture to the app. 
 
